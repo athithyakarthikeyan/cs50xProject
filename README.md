@@ -24,6 +24,4 @@ To install these dependencies, users can run the following command in their term
 
 pip install -r requirements.txt
 
-Acknowledgments:
-
-I thank Harvard University for a wonderful program and an even wonderful experience. I deeply thank Dr. David J Malan for his eloquent way of teaching the subject.
+Acknowledgements: I thank Harvard University for a wonderful program and an even wonderful experience. I deeply thank Dr. David J Malan for his eloquent way of teaching the subject.
