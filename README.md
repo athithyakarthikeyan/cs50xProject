@@ -1,5 +1,7 @@
 Project Title : Wordle
-Video Demo:  <URL HERE>
+
+Video Demo: https://youtu.be/1S7rqrM4WGU
+
 Description: This Python-based Wordle game, developed as the final project for HarvardX CS50P, offers an engaging and interactive experience. Created by Athithya Karthikeyan, 
 the game prompts players to guess a 5-letter word within six attempts, incorporating rich text output with color-coded tiles and emoji feedback. The game not only challenges players' 
 word-guessing skills but also includes educational elements, ensuring that the guessed words align with common singular nouns by utilizing a dictionary API. 
