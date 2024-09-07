@@ -9,6 +9,9 @@ This Python Wordle game, conceived as the culminating project for HarvardX CS50,
 ## Requirements
 To ensure the proper functioning of the Wordle Python program on other machines, the following requirements must be met. It is recommended to create a `requirements.txt` file with the following content:
 
+requests==2.26.0 
+rich==10.9.0 
+stopwatch==0.3.0
 
 These dependencies include:
 
